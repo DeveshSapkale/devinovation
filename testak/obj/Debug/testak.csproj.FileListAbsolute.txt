@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\testak\testak\bin\Debug\testak.exe.config
+C:\Users\hp\source\repos\testak\testak\bin\Debug\testak.exe
+C:\Users\hp\source\repos\testak\testak\bin\Debug\testak.pdb
+C:\Users\hp\source\repos\testak\testak\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\hp\source\repos\testak\testak\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\hp\source\repos\testak\testak\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\hp\source\repos\testak\testak\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\hp\source\repos\testak\testak\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\hp\source\repos\testak\testak\bin\Debug\System.Web.Http.dll
+C:\Users\hp\source\repos\testak\testak\obj\Debug\testak.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\testak\testak\obj\Debug\testak.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\testak\testak\obj\Debug\testak.csproj.CopyComplete
+C:\Users\hp\source\repos\testak\testak\obj\Debug\testak.exe
+C:\Users\hp\source\repos\testak\testak\obj\Debug\testak.pdb
